@@ -1,13 +1,70 @@
-# Constitution of the Software Engineering Code
+# The Constitution of Software Engineering
 
-1. The Code is satire and shall have no actual legal authority.
-2. Legislative power shall be exercised through pull requests.
-3. The English and Traditional Chinese texts shall be maintained in parallel. Translation discrepancies shall constitute grounds for an issue, not a constitutional war.
-4. Article numbers shall be stable, sparse, and occasionally ridiculous.
-5. The Supreme Engineering Court (maintainers) may accept, reject, or request revisions to legislation.
-6. No provision shall supersede real safety, security, or professional responsibilities.
-7. The Code may remain in alpha indefinitely. Stability has not been legislated.
+[繁體中文](CONSTITUTION.zh-TW.md) · [Home](README.md)
 
-## 憲法摘要
+Version: v0.0.2-alpha
 
-本法典純屬娛樂；修法採 PR 制度；中英文同步維護；條號固定但不必連續；維護者擔任最高工程法院；不得取代真實工程責任；Alpha 期限不受限制。
+Preamble: To safeguard the fundamental rights of engineers, preserve the operation of software, and establish constitutional order in software engineering, this Constitution is hereby enacted.
+
+## Chapter 1: General Principles
+
+### Article 1 — Engineering Sovereignty
+
+Sovereignty in software engineering shall reside in the engineers collectively, and not in the product manager.
+
+### Article 2 — Supremacy
+
+This Constitution shall be the supreme law, provided that neither the compiler nor the runtime shall be bound thereby.
+
+### Article 3 — Separation of Powers
+
+Legislative power shall vest in developers, judicial power in testers, and executive power in CI/CD.
+
+## Chapter 2: Fundamental Rights
+
+### Article 4 — Presumption of Innocence
+
+Every engineer shall be presumed innocent until proven guilty by `git blame`.
+
+### Article 5 — Right to Silence
+
+An engineer shall have the right to decline to explain any code they authored three years ago.
+
+### Article 6 — Right to Rest
+
+No engineer shall be deprived of their weekend on account of a noncritical bug.
+
+### Article 7 — Right of Rollback
+
+Every engineer shall have the right to lawfully reverse their own erroneous decisions.
+
+## Chapter 3: Constitutional Order
+
+### Article 8 — Due Process for Requirements
+
+No additional requirement shall be imposed merely by invoking the words “while you're at it” without due process.
+
+### Article 9 — Constitutional Review
+
+The Supreme Engineering Court may reject any pull request incompatible with this Constitution.
+
+### Article 10 — State of Emergency
+
+Upon a major production incident, a state of emergency may be declared and ordinary development procedures temporarily suspended, subject to applicable incident response and safety requirements.
+
+### Article 11 — Constitutional Amendment
+
+Amendments to this Constitution shall be proposed by pull request and approved by persons vested with merge authority.
+
+### Article 12 — Force Majeure
+
+Incidents arising from failures of third-party APIs, external dependencies, or cloud services shall not automatically be attributed to engineers.
+
+## Hierarchy of Authority
+
+1. This Constitution.
+2. [The Software Engineering Code](CODE.en.md).
+3. Implementing regulations and executive orders (reserved for future legislation).
+4. Judicial precedents recorded in GitHub Issues (to be accumulated).
+
+This Constitution and Code are satire, not actual law. Neither supersedes real security, safety, or professional responsibilities.

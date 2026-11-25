@@ -2,7 +2,9 @@
 
 [繁體中文](CODE.zh-TW.md) · [Home](README.md)
 
-Version: v0.0.1-alpha
+Version: v0.0.2-alpha
+
+Enacted under the [Constitution of Software Engineering](CONSTITUTION.md). In this fictional jurisdiction, the Constitution shall prevail in case of conflict.
 
 Purpose: to safeguard the operation of software, the sanity of engineers, and the prevention of repairs becoming incidents in their own right.
 
