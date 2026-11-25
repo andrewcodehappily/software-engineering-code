@@ -1,10 +1,19 @@
 # The Constitution of Software Engineering
 
-[繁體中文](CONSTITUTION.zh-TW.md) · [Home](README.md)
+[繁體中文](CONSTITUTION.zh-TW.md) · [Master Index](README.md)
 
 Version: v0.0.2-alpha
 
 Preamble: To safeguard the fundamental rights of engineers, preserve the operation of software, and establish constitutional order in software engineering, this Constitution is hereby enacted.
+
+## Contents
+
+- [Chapter 1: General Principles](#general-principles)
+- [Chapter 2: Fundamental Rights](#fundamental-rights)
+- [Chapter 3: Constitutional Order](#constitutional-order)
+- [Hierarchy of Authority](#hierarchy-of-authority)
+
+<a name="general-principles"></a>
 
 ## Chapter 1: General Principles
 
@@ -19,6 +28,8 @@ This Constitution shall be the supreme law, provided that neither the compiler n
 ### Article 3 — Separation of Powers
 
 Legislative power shall vest in developers, judicial power in testers, and executive power in CI/CD.
+
+<a name="fundamental-rights"></a>
 
 ## Chapter 2: Fundamental Rights
 
@@ -37,6 +48,8 @@ No engineer shall be deprived of their weekend on account of a noncritical bug.
 ### Article 7 — Right of Rollback
 
 Every engineer shall have the right to lawfully reverse their own erroneous decisions.
+
+<a name="constitutional-order"></a>
 
 ## Chapter 3: Constitutional Order
 
@@ -59,6 +72,8 @@ Amendments to this Constitution shall be proposed by pull request and approved b
 ### Article 12 — Force Majeure
 
 Incidents arising from failures of third-party APIs, external dependencies, or cloud services shall not automatically be attributed to engineers.
+
+<a name="hierarchy-of-authority"></a>
 
 ## Hierarchy of Authority
 

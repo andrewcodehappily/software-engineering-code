@@ -1,6 +1,6 @@
 # 軟體工程師法典
 
-[English](CODE.en.md) · [首頁](README.md)
+[English](CODE.en.md) · [返回總目錄](README.md)
 
 版本：v0.0.2-alpha
 
@@ -9,6 +9,18 @@
 立法宗旨：保障程式之正常運行、工程師之精神健康，並防止修復行為本身成為事故來源。
 
 本法典純屬諷刺娛樂，不具法律效力，亦非工程作業規範。安全、資安、資料完整性及重大事故應依實際程序處理。
+
+## 目錄
+
+- [第一編　基本法](#general-provisions)
+- [第二編　Bug 管理法](#bug-administration)
+- [第三編　程式碼與技術債務法](#code-and-technical-debt)
+- [第四編　Git 與版本控制法](#git-and-version-control)
+- [第五編　測試與部署法](#testing-and-deployment)
+- [第六編　工程師權利保障法](#rights-of-engineers)
+- [第七編　附則](#supplementary-provisions)
+
+<a name="general-provisions"></a>
 
 ## 第一編　基本法
 
@@ -27,6 +39,8 @@
 ### 第 4 條【臨時方案永久化】
 
 以臨時性質部署之解決方案，若持續運行超過一年，應自動取得正式基礎設施之地位。
+
+<a name="bug-administration"></a>
 
 ## 第二編　Bug 管理法
 
@@ -54,6 +68,8 @@
 
 經重新啟動後消失之非重大錯誤，得暫予結案，但應保留其再次犯罪之可能性。
 
+<a name="code-and-technical-debt"></a>
+
 ## 第三編　程式碼與技術債務法
 
 ### 第 1024 條【歷史遺跡保護】
@@ -72,6 +88,8 @@
 
 不得僅為刪除三行程式碼，而新增四個類別、六個檔案及兩項外部依賴。
 
+<a name="git-and-version-control"></a>
+
 ## 第四編　Git 與版本控制法
 
 ### 第 409 條【合併衝突】
@@ -85,6 +103,8 @@
 ### 第 8193 條【歷史追責】
 
 工程師使用 `git blame` 查明責任人為過去之自己時，得依法行使緘默權。
+
+<a name="testing-and-deployment"></a>
 
 ## 第五編　測試與部署法
 
@@ -100,6 +120,8 @@
 
 工程師不得假定使用者將按照工程師所預期之方式使用軟體。即使該使用方式明顯不符合人類正常邏輯，亦同。
 
+<a name="rights-of-engineers"></a>
+
 ## 第六編　工程師權利保障法
 
 ### 第 65535 條【工期估算豁免】
@@ -109,6 +131,8 @@
 ### 第 65536 條【需求變更】
 
 凡以「順便加一個小功能」開頭之需求，不得僅依其字數判定工作量。
+
+<a name="supplementary-provisions"></a>
 
 ## 第七編　附則
 

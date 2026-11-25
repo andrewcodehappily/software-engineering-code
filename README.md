@@ -1,48 +1,71 @@
 # The Software Engineering Code (SEC)
-
-**The Constitution / 憲法:** [English](CONSTITUTION.md) | [繁體中文](CONSTITUTION.zh-TW.md)
-
-**The Code / 法典:** [English](CODE.en.md) | [繁體中文](CODE.zh-TW.md)
+# 軟體工程師法典
 
 > The only codebase where adding more code is called legislation.
 
-An entirely unofficial legal framework for the survival of software engineers.
+An unofficial, satirical legal framework for software engineering.
+一套純屬娛樂的軟體工程法律體系。
 
-## Constitutional Order / 憲政秩序
+## Master Index / 法規總目錄
 
-The Constitution is the supreme law of this fictional jurisdiction. The Code is subordinate to it.
+### I. Constitution / 憲法
 
-1. [Constitution](CONSTITUTION.md) / [憲法](CONSTITUTION.zh-TW.md) (12 articles)
-2. [Code](CODE.en.md) / [法典](CODE.zh-TW.md) (27 provisions)
-3. Implementing regulations and executive orders / 施行細則與行政命令 (future legislation)
-4. Judicial precedents / 司法判例 (GitHub Issues)
+The supreme law of this fictional jurisdiction. / 本虛構法制之最高規範。
 
-## Constitutional Article 3: Separation of Powers
+| Chapter / 章 | English | 繁體中文 |
+|---|---|---|
+| Full text / 全文 | [Constitution](CONSTITUTION.md) | [軟體工程師憲法](CONSTITUTION.zh-TW.md) |
+| Chapter 1 / 第一章 | [Chapter 1: General Principles](CONSTITUTION.md#general-principles) | [第一章　總綱](CONSTITUTION.zh-TW.md#general-principles) |
+| Chapter 2 / 第二章 | [Chapter 2: Fundamental Rights](CONSTITUTION.md#fundamental-rights) | [第二章　基本權利](CONSTITUTION.zh-TW.md#fundamental-rights) |
+| Chapter 3 / 第三章 | [Chapter 3: Constitutional Order](CONSTITUTION.md#constitutional-order) | [第三章　憲政秩序](CONSTITUTION.zh-TW.md#constitutional-order) |
+| Hierarchy / 法源 | [Hierarchy of Authority](CONSTITUTION.md#hierarchy-of-authority) | [法源位階](CONSTITUTION.zh-TW.md#hierarchy-of-authority) |
 
-> Legislative power shall vest in developers, judicial power in testers, and executive power in CI/CD.
+### II. Code / 法典
 
-> 立法權屬於開發者，司法權屬於測試人員，行政權屬於 CI/CD。
+Ordinary legislation enacted under the Constitution. / 依憲法制定之一般法律。
 
-## Code Article 743, Section 928: Non-Reproducible Bug Immunity
+| Part / 編 | English | 繁體中文 |
+|---|---|---|
+| Full text / 全文 | [The Code](CODE.en.md) | [軟體工程師法典](CODE.zh-TW.md) |
+| 1 | [Part 1 — General Provisions](CODE.en.md#general-provisions) | [第一編　基本法](CODE.zh-TW.md#general-provisions) |
+| 2 | [Part 2 — Bug Administration](CODE.en.md#bug-administration) | [第二編　Bug 管理法](CODE.zh-TW.md#bug-administration) |
+| 3 | [Part 3 — Code and Technical Debt](CODE.en.md#code-and-technical-debt) | [第三編　程式碼與技術債務法](CODE.zh-TW.md#code-and-technical-debt) |
+| 4 | [Part 4 — Git and Version Control](CODE.en.md#git-and-version-control) | [第四編　Git 與版本控制法](CODE.zh-TW.md#git-and-version-control) |
+| 5 | [Part 5 — Testing and Deployment](CODE.en.md#testing-and-deployment) | [第五編　測試與部署法](CODE.zh-TW.md#testing-and-deployment) |
+| 6 | [Part 6 — Rights of Engineers](CODE.en.md#rights-of-engineers) | [第六編　工程師權利保障法](CODE.zh-TW.md#rights-of-engineers) |
+| 7 | [Part 7 — Supplementary Provisions](CODE.en.md#supplementary-provisions) | [第七編　附則](CODE.zh-TW.md#supplementary-provisions) |
 
-> If a bug cannot be consistently reproduced and all existing functionality remains operational, further modifications shall be prohibited, lest they introduce additional, consistently reproducible bugs.
+### III. Implementing Regulations / 施行細則與行政命令
 
-> 若 Bug 無法穩定重現，且目前所有功能皆正常，則禁止繼續修改程式，以免製造更多可穩定重現的 Bug。
+Reserved for future legislation. / 尚待立法。
 
-## Jurisdiction
+### IV. Judicial Precedents / 司法判例
+
+[Supreme Engineering Court — GitHub Issues](https://github.com/andrewcodehappily/software-engineering-code/issues) · 最高工程法院
+
+## Legislative Administration / 立法行政
+
+| Document / 文件 | Purpose / 用途 |
+|---|---|
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Legislative procedure / 修法程序 |
+| [CHANGELOG.md](CHANGELOG.md) | Legislative history / 法規沿革 |
+| [Releases](https://github.com/andrewcodehappily/software-engineering-code/releases) | Official promulgations / 正式頒布 |
+| [LICENSE](LICENSE) | License / 授權 |
+
+## Jurisdiction / 管轄制度
 
 | GitHub | Legislative equivalent |
 |---|---|
-| Issue | Legal case |
-| Pull request | Proposed amendment |
-| Merge | Enactment |
-| Release | Promulgation |
-| Revert | Repeal |
-| Maintainer | Supreme Engineering Court justice |
-| Merge conflict | Constitutional crisis |
-| Fork | Independent jurisdiction |
+| Issue | Legal case / 司法案件 |
+| Pull request | Proposed amendment / 修法提案 |
+| Merge | Enactment / 修正案通過 |
+| Release | Promulgation / 頒布 |
+| Revert | Repeal / 廢止 |
+| Maintainer | Supreme Engineering Court justice / 大法官 |
+| Merge conflict | Constitutional crisis / 憲政危機 |
+| Fork | Independent jurisdiction / 獨立司法管轄區 |
 
-Read the [Constitution](CONSTITUTION.md) and [contribution procedure](CONTRIBUTING.md) before attempting legislation.
+---
 
 This repository is intended for entertainment purposes only. Any resemblance to actual software engineering practices is unfortunately intentional. Nothing here is legal advice or a substitute for sound engineering judgment.
 

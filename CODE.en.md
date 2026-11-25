@@ -1,6 +1,6 @@
 # The Software Engineering Code
 
-[繁體中文](CODE.zh-TW.md) · [Home](README.md)
+[繁體中文](CODE.zh-TW.md) · [Master Index](README.md)
 
 Version: v0.0.2-alpha
 
@@ -9,6 +9,18 @@ Enacted under the [Constitution of Software Engineering](CONSTITUTION.md). In th
 Purpose: to safeguard the operation of software, the sanity of engineers, and the prevention of repairs becoming incidents in their own right.
 
 This Code is satire, not law or engineering policy. Safety, security, data integrity, and serious incidents require real procedures.
+
+## Contents
+
+- [Part 1 — General Provisions](#general-provisions)
+- [Part 2 — Bug Administration](#bug-administration)
+- [Part 3 — Code and Technical Debt](#code-and-technical-debt)
+- [Part 4 — Git and Version Control](#git-and-version-control)
+- [Part 5 — Testing and Deployment](#testing-and-deployment)
+- [Part 6 — Rights of Engineers](#rights-of-engineers)
+- [Part 7 — Supplementary Provisions](#supplementary-provisions)
+
+<a name="general-provisions"></a>
 
 ## Part 1 — General Provisions
 
@@ -27,6 +39,8 @@ Undocumented behavior may provisionally be classified as an unreleased feature u
 ### Article 4 — Permanent Temporary Solutions
 
 A temporary solution remaining in service for more than one year shall acquire the status of permanent infrastructure.
+
+<a name="bug-administration"></a>
 
 ## Part 2 — Bug Administration
 
@@ -54,6 +68,8 @@ A bug that disappears upon recording, screenshotting, or demonstration shall be 
 
 A noncritical error disappearing after a restart may be provisionally dismissed, subject to the possibility of recidivism.
 
+<a name="code-and-technical-debt"></a>
+
 ## Part 3 — Code and Technical Debt
 
 ### Article 1024 — Protection of Historical Code
@@ -72,6 +88,8 @@ Technical debt may be deferred on the grounds that it will be addressed in the n
 
 The removal of three lines of code shall not, by itself, justify the introduction of four classes, six files, and two external dependencies.
 
+<a name="git-and-version-control"></a>
+
 ## Part 4 — Git and Version Control
 
 ### Article 409 — Merge Conflicts
@@ -85,6 +103,8 @@ A commit named `final` shall have no binding effect as a final version. The same
 ### Article 8193 — Right Against Self-Incrimination
 
 An engineer who discovers their own name through `git blame` shall have the right to remain silent.
+
+<a name="testing-and-deployment"></a>
 
 ## Part 5 — Testing and Deployment
 
@@ -100,6 +120,8 @@ Except in a major emergency, substantial deployments shall not occur shortly bef
 
 Engineers shall not presume that users will operate software as intended, even where their actual manner of operation defies ordinary human logic.
 
+<a name="rights-of-engineers"></a>
+
 ## Part 6 — Rights of Engineers
 
 ### Article 65535 — Time Estimation Immunity
@@ -109,6 +131,8 @@ The expression “five minutes” shall not constitute a legally binding estimat
 ### Article 65536 — Scope of Small Requests
 
 The effort required by any request beginning with “just one small feature” shall not be assessed by its word count alone.
+
+<a name="supplementary-provisions"></a>
 
 ## Part 7 — Supplementary Provisions
 

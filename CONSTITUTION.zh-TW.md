@@ -1,10 +1,19 @@
 # 軟體工程師憲法
 
-[English](CONSTITUTION.md) · [首頁](README.md)
+[English](CONSTITUTION.md) · [返回總目錄](README.md)
 
 版本：v0.0.2-alpha
 
 序言：為保障工程師之基本權利、維護程式之正常運行、確立軟體工程之憲政秩序，特制定本憲法。
+
+## 目錄
+
+- [第一章　總綱](#general-principles)
+- [第二章　基本權利](#fundamental-rights)
+- [第三章　憲政秩序](#constitutional-order)
+- [法源位階](#hierarchy-of-authority)
+
+<a name="general-principles"></a>
 
 ## 第一章　總綱
 
@@ -19,6 +28,8 @@
 ### 第 3 條【權力分立】
 
 立法權屬於開發者，司法權屬於測試人員，行政權屬於 CI/CD。
+
+<a name="fundamental-rights"></a>
 
 ## 第二章　基本權利
 
@@ -37,6 +48,8 @@
 ### 第 7 條【回滾權】
 
 任何工程師均享有依法撤銷自身錯誤決策之權利。
+
+<a name="constitutional-order"></a>
 
 ## 第三章　憲政秩序
 
@@ -59,6 +72,8 @@ Production 發生重大事故時，得依法宣布緊急狀態，暫停一般開
 ### 第 12 條【不可抗力】
 
 因第三方 API、外部依賴或雲端服務故障所致之事故，不得逕行歸責於工程師。
+
+<a name="hierarchy-of-authority"></a>
 
 ## 法源位階
 
