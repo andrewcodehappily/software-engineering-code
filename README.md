@@ -32,6 +32,16 @@ Ordinary legislation enacted under the Constitution.
 - [Part 5: Testing and Deployment](code/05-testing-and-deployment/README.md)
 - [Part 6: Rights of Engineers](code/06-rights-of-engineers/README.md)
 - [Part 7: Supplementary Provisions](code/07-supplementary-provisions/README.md)
+- [Part 8: API and Networking](code/08-api-and-networking/README.md)
+- [Part 9: Database Administration](code/09-databases/README.md)
+- [Part 10: AI and Prompt Administration](code/10-artificial-intelligence/README.md)
+- [Part 11: Packages and Dependencies](code/11-dependencies/README.md)
+- [Part 12: Operating Systems](code/12-operating-systems/README.md)
+- [Part 13: Open Source](code/13-open-source/README.md)
+- [Part 14: Performance and Resources](code/14-performance-and-resources/README.md)
+- [Part 15: Documentation and Comments](code/15-documentation/README.md)
+- [Part 16: Security and Privacy](code/16-security-and-privacy/README.md)
+- [Part 17: Project Management](code/17-project-management/README.md)
 
 ### III. Implementing Regulations and Executive Orders
 

@@ -32,6 +32,16 @@
 - [第五編　測試與部署法](code/05-testing-and-deployment/README.zh-TW.md)
 - [第六編　工程師權利保障法](code/06-rights-of-engineers/README.zh-TW.md)
 - [第七編　附則](code/07-supplementary-provisions/README.zh-TW.md)
+- [第八編　API 與網路通訊法](code/08-api-and-networking/README.zh-TW.md)
+- [第九編　資料庫管理法](code/09-databases/README.zh-TW.md)
+- [第十編　AI 與 Prompt 管理法](code/10-artificial-intelligence/README.zh-TW.md)
+- [第十一編　套件與依賴管理法](code/11-dependencies/README.zh-TW.md)
+- [第十二編　作業系統管理法](code/12-operating-systems/README.zh-TW.md)
+- [第十三編　開源軟體法](code/13-open-source/README.zh-TW.md)
+- [第十四編　效能與資源使用法](code/14-performance-and-resources/README.zh-TW.md)
+- [第十五編　文件與註解管理法](code/15-documentation/README.zh-TW.md)
+- [第十六編　資安與隱私法](code/16-security-and-privacy/README.zh-TW.md)
+- [第十七編　專案管理法](code/17-project-management/README.zh-TW.md)
 
 ### 三、施行細則與行政命令
 

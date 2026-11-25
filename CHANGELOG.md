@@ -1,6 +1,12 @@
 # Legislative History
 
-## Unreleased — Legislative Library Reorganization
+## Unreleased — Legislative Expansion
+
+- Enacted 100 bilingual provisions across ten new parts (VIII–XVII).
+- Added stable article anchors and per-part indexes for new provisions.
+- Passed the first 2,000-line project milestone.
+
+## Legislative Library Reorganization
 
 - Split the Constitution and Code into bilingual chapter and part directories.
 - Established dedicated indexes for regulations and precedents.
