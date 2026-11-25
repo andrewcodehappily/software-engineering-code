@@ -57,7 +57,7 @@
 
 | 文件 | 用途 |
 |---|---|
-| [修法程序](CONTRIBUTING.md) | 提案及修正程序 |
+| [修法程序](CONTRIBUTING.zh-TW.md) | 提案及修正程序 |
 | [法規沿革](CHANGELOG.md) | 立法歷史 |
 | [正式頒布](https://github.com/andrewcodehappily/software-engineering-code/releases) | 版本發布 |
 | [授權](LICENSE) | 使用及分享規範 |
