@@ -1,6 +1,6 @@
 # 軟體工程師法典
 
-[English](CODE.en.md) · [返回總目錄](README.md)
+[English](CODE.en.md) · [返回總目錄](README.zh-TW.md)
 
 版本：v0.0.2-alpha
 

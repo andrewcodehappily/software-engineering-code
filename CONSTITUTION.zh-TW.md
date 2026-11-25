@@ -1,6 +1,6 @@
 # 軟體工程師憲法
 
-[English](CONSTITUTION.md) · [返回總目錄](README.md)
+[English](CONSTITUTION.md) · [返回總目錄](README.zh-TW.md)
 
 版本：v0.0.2-alpha
 
