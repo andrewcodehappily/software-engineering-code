@@ -12,34 +12,36 @@
 
 本虛構法制之最高規範。
 
-[閱讀憲法全文](CONSTITUTION.zh-TW.md)
+[閱讀憲法全文](constitution/README.zh-TW.md)
 
-- [第一章　總綱](CONSTITUTION.zh-TW.md#general-principles)
-- [第二章　基本權利](CONSTITUTION.zh-TW.md#fundamental-rights)
-- [第三章　憲政秩序](CONSTITUTION.zh-TW.md#constitutional-order)
-- [法源位階](CONSTITUTION.zh-TW.md#hierarchy-of-authority)
+- [第一章　總綱](constitution/01-general-principles/README.zh-TW.md)
+- [第二章　基本權利](constitution/02-fundamental-rights/README.zh-TW.md)
+- [第三章　憲政秩序](constitution/03-constitutional-order/README.zh-TW.md)
+- [法源位階](constitution/04-hierarchy-of-authority/README.zh-TW.md)
 
 ### 二、法典
 
 依憲法制定之一般法律。
 
-[閱讀法典全文](CODE.zh-TW.md)
+[閱讀法典全文](code/README.zh-TW.md)
 
-- [第一編　基本法](CODE.zh-TW.md#general-provisions)
-- [第二編　Bug 管理法](CODE.zh-TW.md#bug-administration)
-- [第三編　程式碼與技術債務法](CODE.zh-TW.md#code-and-technical-debt)
-- [第四編　Git 與版本控制法](CODE.zh-TW.md#git-and-version-control)
-- [第五編　測試與部署法](CODE.zh-TW.md#testing-and-deployment)
-- [第六編　工程師權利保障法](CODE.zh-TW.md#rights-of-engineers)
-- [第七編　附則](CODE.zh-TW.md#supplementary-provisions)
+- [第一編　基本法](code/01-general-provisions/README.zh-TW.md)
+- [第二編　Bug 管理法](code/02-bug-administration/README.zh-TW.md)
+- [第三編　程式碼與技術債務法](code/03-code-and-technical-debt/README.zh-TW.md)
+- [第四編　Git 與版本控制法](code/04-git-and-version-control/README.zh-TW.md)
+- [第五編　測試與部署法](code/05-testing-and-deployment/README.zh-TW.md)
+- [第六編　工程師權利保障法](code/06-rights-of-engineers/README.zh-TW.md)
+- [第七編　附則](code/07-supplementary-provisions/README.zh-TW.md)
 
 ### 三、施行細則與行政命令
 
-尚待立法。
+[施行細則目錄](regulations/README.zh-TW.md)。
 
 ### 四、司法判例
 
 [最高工程法院（GitHub Issues）](https://github.com/andrewcodehappily/software-engineering-code/issues)
+
+[判例目錄](precedents/README.zh-TW.md)
 
 ## 立法行政
 

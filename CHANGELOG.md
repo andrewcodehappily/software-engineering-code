@@ -1,5 +1,11 @@
 # Legislative History
 
+## Unreleased — Legislative Library Reorganization
+
+- Split the Constitution and Code into bilingual chapter and part directories.
+- Established dedicated indexes for regulations and precedents.
+- Established a long-term target of 20,000 substantive Markdown lines across both languages.
+
 ## v0.0.2-alpha — Constitutional Enactment
 
 - Enacted the 12-article Constitution in English and Traditional Chinese.

@@ -2,7 +2,7 @@
 
 1. Open a proposed amendment or legal dispute issue.
 2. Identify whether the proposal amends the Constitution or the Code. Select a unique article or section number within that instrument. Existing numbers must not be reassigned.
-3. Add or amend matching provisions in both language files.
+3. Add or amend matching provisions in both language files within the appropriate chapter or part directory. Each directory shall contain an English `README.md` and a Traditional Chinese `README.zh-TW.md`. Add new subject directories to both parent indexes. Article identifiers remain stable even when files move.
 4. Use formal legal language for absurd but recognizable engineering situations.
 5. Explain the legislative intent and, where available, an anonymized engineering incident. Do not disclose private data or secrets.
 6. Submit a pull request for judicial review. Ordinary legislation must conform to the Constitution; constitutional amendments require approval from a maintainer with merge authority.
