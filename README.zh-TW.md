@@ -56,14 +56,14 @@
 
 | GitHub | 法律制度 |
 |---|---|
-| Issue | 司法案件 |
-| Pull request | 修法提案 |
-| Merge | 修正案通過 |
-| Release | 正式頒布 |
-| Revert | 廢止 |
-| Maintainer | 最高工程法院大法官 |
-| Merge conflict | 憲政危機 |
-| Fork | 獨立司法管轄區 |
+| `Issue` | 司法案件 |
+| `Pull request` | 修法提案 |
+| `Merge` | 修正案通過 |
+| `Release` | 正式頒布 |
+| `Revert` | 廢止 |
+| `Maintainer` | 最高工程法院大法官 |
+| `Merge conflict` | 憲政危機 |
+| `Fork` | 獨立司法管轄區 |
 
 ---
 
