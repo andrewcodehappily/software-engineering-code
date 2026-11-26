@@ -51,6 +51,12 @@ Ordinary legislation enacted under the Constitution.
 - [Part 15: Documentation and Comments](code/15-documentation/README.md)
 - [Part 16: Security and Privacy](code/16-security-and-privacy/README.md)
 - [Part 17: Project Management](code/17-project-management/README.md)
+- [Part 18: Compiler and Build Law](code/18-compiler-and-build/README.md)
+- [Part 19: Software Engineering Criminal Law](code/19-criminal-law/README.md)
+- [Part 20: Software Engineering Civil Law](code/20-civil-law/README.md)
+- [Part 21: Procedure and Evidence Law](code/21-procedure-and-evidence/README.md)
+- [Part 22: User Interface and Accessibility Law](code/22-user-interface/README.md)
+- [Part 23: Concurrency and Distributed Systems](code/23-concurrency-and-distributed-systems/README.md)
 
 ### III. Implementing Regulations and Executive Orders
 

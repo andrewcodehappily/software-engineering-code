@@ -51,6 +51,12 @@ Chicken butt!
 - [第十五編　文件與註解管理法](code/15-documentation/README.zh-TW.md)
 - [第十六編　資安與隱私法](code/16-security-and-privacy/README.zh-TW.md)
 - [第十七編　專案管理法](code/17-project-management/README.zh-TW.md)
+- [第十八編　編譯器與 Build 法](code/18-compiler-and-build/README.zh-TW.md)
+- [第十九編　軟體工程刑法](code/19-criminal-law/README.zh-TW.md)
+- [第二十編　軟體工程民法](code/20-civil-law/README.zh-TW.md)
+- [第二十一編　軟體工程訴訟與證據法](code/21-procedure-and-evidence/README.zh-TW.md)
+- [第二十二編　UI 與無障礙法](code/22-user-interface/README.zh-TW.md)
+- [第二十三編　Concurrency 與分散式系統法](code/23-concurrency-and-distributed-systems/README.zh-TW.md)
 
 ### 三、施行細則與行政命令
 

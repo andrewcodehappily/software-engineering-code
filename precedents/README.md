@@ -11,4 +11,8 @@ The following are fictional illustrative precedents, not actual GitHub cases.
 - [SEC Case 005: The Small Feature](005-small-feature/README.md)
 - [SEC Case 006: The Successful Failure](006-http-200/README.md)
 
+- [SEC Case 007: The Compiler's Warning](007-warning-exemption/README.md)
+- [SEC Case 008: The Missing Semicolon](008-missing-semicolon/README.md)
+- [SEC Case 009: The Two Waiting Threads](009-deadlock/README.md)
+
 [Petition the Court](https://github.com/andrewcodehappily/software-engineering-code/issues)

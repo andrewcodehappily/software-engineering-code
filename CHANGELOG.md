@@ -2,6 +2,11 @@
 
 ## Unreleased — Legislative Expansion
 
+- Enacted the compiler warning exemption (Article 4097).
+- Added 72 bilingual provisions across Parts XVIII–XXIII, covering compilers and builds, fictional criminal and civil law, procedure and evidence, UI and accessibility, and distributed systems.
+- Added three fictional illustrative judicial precedents (SEC Cases 007–009).
+- Passed the 4,000-line Markdown milestone.
+
 - Enacted two implementing regulations containing 12 sections and five executive orders.
 - Published six fictional illustrative judicial precedents in both languages.
 

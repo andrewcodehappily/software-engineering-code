@@ -11,4 +11,8 @@
 - [第 005 號：小功能認定案](005-small-feature/README.zh-TW.md)
 - [第 006 號：成功的失敗案](006-http-200/README.zh-TW.md)
 
+- [第 007 號：編譯器警告案](007-warning-exemption/README.zh-TW.md)
+- [第 008 號：分號失蹤案](008-missing-semicolon/README.zh-TW.md)
+- [第 009 號：兩個等待中的 Thread 案](009-deadlock/README.zh-TW.md)
+
 [向最高工程法院提出案件](https://github.com/andrewcodehappily/software-engineering-code/issues)
