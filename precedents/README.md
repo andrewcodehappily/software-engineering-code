@@ -2,4 +2,13 @@
 
 [繁體中文](README.zh-TW.md) · [Master Index](../README.md)
 
-No judgments have been recorded yet. [Petition the Court](https://github.com/andrewcodehappily/software-engineering-code/issues).
+The following are fictional illustrative precedents, not actual GitHub cases.
+
+- [SEC Case 001: People v. Restart](001-people-v-restart/README.md)
+- [SEC Case 002: In re Git Blame](002-in-re-git-blame/README.md)
+- [SEC Case 003: Friday v. Production](003-friday-v-production/README.md)
+- [SEC Case 004: The Quantum Bug](004-quantum-bug/README.md)
+- [SEC Case 005: The Small Feature](005-small-feature/README.md)
+- [SEC Case 006: The Successful Failure](006-http-200/README.md)
+
+[Petition the Court](https://github.com/andrewcodehappily/software-engineering-code/issues)

@@ -2,6 +2,9 @@
 
 ## Unreleased — Legislative Expansion
 
+- Enacted two implementing regulations containing 12 sections and five executive orders.
+- Published six fictional illustrative judicial precedents in both languages.
+
 - Enacted 100 bilingual provisions across ten new parts (VIII–XVII).
 - Added stable article anchors and per-part indexes for new provisions.
 - Passed the first 2,000-line project milestone.
