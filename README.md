@@ -6,6 +6,15 @@
 
 An unofficial, satirical legal framework for software engineering.
 
+**Guess What?**
+
+<details>
+<summary>What</summary>
+
+Chicken butt!
+
+</details>
+
 ## Master Index
 
 ### I. Constitution
