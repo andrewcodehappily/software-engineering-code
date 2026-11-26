@@ -25,3 +25,14 @@ Code retained exclusively in comments shall be eligible for relocation to the ar
 ### Article 1027 — Naming Proceedings
 
 The time spent naming a variable shall not be presumed proportional to the length of its name.
+
+<a name="article-4097"></a>
+
+### Article 4097 — Compiler Warning Exemption
+
+1. Compiler warnings that do not prevent successful compilation may provisionally be disregarded.
+2. Should such warnings subsequently result in a crash, the engineer shall not plead ignorance.
+3. The number of warnings shall not be the sole criterion for determining whether a program can run.
+4. The use of `-Werror` to elevate warnings to errors shall constitute a declaration of martial law by the compiler.
+
+Warnings involving safety, security, undefined behavior, or data integrity shall not qualify for this exemption.
